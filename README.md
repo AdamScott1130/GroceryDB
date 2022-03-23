@@ -5,12 +5,12 @@ This project was done as an assignment at Wilfrid Laurier University for the Win
 
 # Authors
 
-Adam Scott 			190600780
-Zaid Rafiq 			200772150
-Shazaib Mohammed 	200820660
-Melrez Baldonasa 	170744450
-Jake Watts 			151477490
-Justin Medeiros 	200744390
+Adam Scott
+Zaid Rafiq
+Shazaib Mohammed
+Melrez B.
+Jake Watts
+Justin Medeiros
 
 # Version 0.1
 
