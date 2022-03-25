@@ -12,12 +12,12 @@ Melrez B.
 Jake Watts
 Justin Medeiros
 
-# Version 0.1
+# Version 0.1 (model1.mwb.bak)
 
 No data in the database yet. This file contains only the structure of the database.
 
 
-# Version 1.0
+# Version 1.0 (GroceryDB20220322)
 
 Small amount of data inserted into the database.
 Database can be queried and manipulated to accomplish some simple tasks.
