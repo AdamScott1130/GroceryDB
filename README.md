@@ -2,6 +2,7 @@
 
 A relational database modelling a grocery store. 
 This project was done as an assignment at Wilfrid Laurier University for the Winter 2022 CP363 (Database I) course.
+https://github.com/AdamScott1130/GroceryDB
 
 # Authors
 
