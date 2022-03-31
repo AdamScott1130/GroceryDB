@@ -32,3 +32,8 @@ Data dump: Dump20220223
 Added useful functions as stored procedures.
 Added a file Queries.sql with calls to these stored procedures.
 Release Database: GroceryDB-20220330
+
+# Entity Relationship Diagram
+
+![image](https://user-images.githubusercontent.com/101595410/160972214-c7cd76d2-701a-4124-a731-b9ece4c931fb.png)
+
