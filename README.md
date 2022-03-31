@@ -22,10 +22,13 @@ Model: model1.mwb.bak
 
 Small amount of data inserted into the database.
 Database can be queried and manipulated to accomplish some simple tasks.
-Next version: Insert more data in order to demonstrate more robust functionality,
-and keep some useful queries in Stored Procedures.
 Model: GroceryDB20220322
 
 # Version 1.1
 Fixed some compatability issues.
 Data dump: Dump20220223
+
+# Version 2.0 
+Added useful functions as stored procedures.
+Added a file Queries.sql with calls to these stored procedures.
+Release Database: GroceryDB-20220330
